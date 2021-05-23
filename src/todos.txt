@@ -1,0 +1,1 @@
+!a képernyő mozgatás egyre nagyobbakat lép/laggol valamiért
